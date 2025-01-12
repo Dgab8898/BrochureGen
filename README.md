@@ -1,4 +1,4 @@
-## ***Project Name:*** BrochureGen: Multilingual Brochure Generator for Enterprises
+## Project Name: BrochureGen: Multilingual Brochure Generator for Enterprises
 
 ### Overview
 ```
