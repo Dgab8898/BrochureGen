@@ -8,7 +8,7 @@ Currently, it supports Arabic, Hebrew, and Japanese, enhancing global outreach a
 This project focuses on optimising the brochure creation process by automating content generation, translation, and formatting. This enables businesses to swiftly expand\
 their marketing reach across diverse regions and languages.
 ```
-### Key Features
+#### Key Features
 ```
 •	AI-Powered Content Creation: Automatically generates text for brochures based on input from the user, including company profile, product features, and recruitment details.
 •	Multilingual Support: Translates brochures into multiple languages, including built-in support for Arabic, Hebrew, and Japanese, utilising large language models and AI translation technologies.
@@ -18,12 +18,12 @@ their marketing reach across diverse regions and languages.
 
 
 
-### Technologies Used
+#### Technologies Used
 ```
 •	OpenAI GPT-3 / GPT-4: For content generation and AI-driven language translation.
 ```
 
-### Installation
+#### Installation
 ```
 import os
 import requests
@@ -33,7 +33,7 @@ from IPython.display import Markdown, display
 from openai import OpenAI
 ```
 
-### Processes
+#### Processes
 ```
 import os
 import requests
@@ -43,7 +43,7 @@ from IPython.display import Markdown, display
 from openai import OpenAI
 ```
 
-### Contribution
+#### Contribution
 ```
 We welcome contributions! To contribute, please fork the repository and submit a pull request. Before contributing, please make sure that:
 •	Your code follows the project's coding style.
@@ -52,20 +52,24 @@ We welcome contributions! To contribute, please fork the repository and submit a
 
 ```
 
+#### Credit
+```
+I am setting on the gaint shoulder of developers.
+Special thanks to Edward Donner
+```
 
-### Licence
+
+#### Licence
 ```
-Copyright (C) 2024 David Gabriel
+Copyright (C) 2025 David Gabriel
 ```
 
-### References
+#### References
 ```
-import os
-import requests
-from dotenv import load_dotenv
-from bs4 import BeautifulSoup
-from IPython.display import Markdown, display
-from
+https://edwarddonner.com/2024/11/13/llm-engineering-resources/
+https://platform.openai.com/api-keys
+https://www.deeplearning.ai/courses/
+www.nvidia.com](https://www.nvidia.com/en-au/
 ...
 
 
