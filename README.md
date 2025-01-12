@@ -1,13 +1,13 @@
 # Project Name: BrochureGen: Multilingual Brochure Generator for Enterprises!
-## Overview
-...
 
-"BrochureGen is a cutting-edge tool that helps businesses such as NVIDIA craft professional and high-quality brochures for potential clients, investors, and recruits. 
+## Overview
+```
+BrochureGen is a cutting-edge tool that helps businesses such as NVIDIA craft professional and high-quality brochures for potential clients, investors, and recruits. 
 This solution employs advanced large language models and OpenAI technologies to create engaging, customized brochures, which can be easily translated into various languages.\
 Currently, it supports Arabic, Hebrew, and Japanese, enhancing global outreach and promoting effective communication with diverse audiences.\
 This project focuses on optimising the brochure creation process by automating content generation, translation, and formatting. This enables businesses to swiftly expand\
 their marketing reach across diverse regions and languages.
-...
+```
 
 ## Key Features
 ...
