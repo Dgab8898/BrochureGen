@@ -55,12 +55,7 @@ We welcome contributions! To contribute, please fork the repository and submit a
 
 ### Licence
 ```
-import os
-import requests
-from dotenv import load_dotenv
-from bs4 import BeautifulSoup
-from IPython.display import Markdown, display
-from openai import OpenAI
+Copyright (C) 2024 David Gabriel
 ```
 
 ### References
