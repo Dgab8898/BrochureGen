@@ -10,7 +10,7 @@ their marketing reach across diverse regions and languages.
 ```
 #### Key Features
 ```
-•	AI-Powered Content Creation: Automatically generates text for brochures based on input from the user, including company profile, product features, and recruitment details.
+•	AI-Powered Content Creation: Generates text for brochures based on input from the user, including company profile, product features, and recruitment details.
 •	Multilingual Support: Translates brochures into multiple languages, including built-in support for Arabic, Hebrew, and Japanese, utilising large language models and AI translation technologies.
 •	Customizable Templates: This service offers a range of attractive templates for businesses to design brochures, catering to various needs (clients, investors, recruits).
 •	Scalable Solution: Scales easily for companies looking to generate brochures for different regions or business divisions, saving time and resources
