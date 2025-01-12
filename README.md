@@ -35,12 +35,13 @@ from openai import OpenAI
 
 #### Processes
 ```
-import os
-import requests
-from dotenv import load_dotenv
-from bs4 import BeautifulSoup
-from IPython.display import Markdown, display
-from openai import OpenAI
+initialise and constants
+create class to represent a Webpage
+Create system prompts
+create function def get_links_user_prompt(website)
+create function def get_brochure_user_prompt(company_name, url)
+create function def create_brochure_language(company_name, url, language)
+
 ```
 
 #### Contribution
